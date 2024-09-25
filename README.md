@@ -12,4 +12,4 @@ Select values: </br>
   6: A + B (arithmetic) </br>
   7: A - B (arithmetic) </br>
 Displays result in hexadecimal representation on 7-segment display. </br>
-All source files included in .srcs folder. </br>
+All source files, including simulation sources, available in .srcs folder.
