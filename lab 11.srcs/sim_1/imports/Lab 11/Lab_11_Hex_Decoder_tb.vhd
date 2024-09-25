@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------
 -- Course: ECE 232 - Digital System Design Lab
--- Author: 
+-- Author: Ember Ipek
 -- 
 -- Create Date: 
 -- Experiment Name: Arithmetic and Logic Unit in VHDL (Lab #11)
